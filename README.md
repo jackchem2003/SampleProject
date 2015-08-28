@@ -1,3 +1,0 @@
-# SampleProject
-Test Demo,
-
